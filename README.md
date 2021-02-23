@@ -12,9 +12,10 @@
 
 - 🎮 欢迎来 Minecraft 找我，我的 Xbox ID 是 wherewhere7，我对红石通信可是颇有研究的。
 
-- [![wherewhere's GitHub stats](https://github-readme-stats.vercel.app/api?username=wherewhere&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![wherewhere's GitHub stats](https://github-readme-stats.vercel.app/api?username=wherewhere&theme=dark&show_icons=true&count_private=true&locale=cn)](https://github.com/wherewhere)
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=dark&show_icons=true&count_private=true&locale=cn)](https://github.com/wherewhere)
+
 <!--
 **wherewhere/wherewhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
