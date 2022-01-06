@@ -16,6 +16,8 @@
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn)](https://github.com/wherewhere)
 
+- <a href="https://afdian.net/@wherewhere"><img alt="爱发电" width="250px" src="https://user-images.githubusercontent.com/27689196/148378203-2e9e0c08-89c6-47b1-a37c-0b11b780ac8a.jpg"/></a>
+
 <!--
 **wherewhere/wherewhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
