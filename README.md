@@ -1,11 +1,11 @@
 ### 大家好 👋
 
 - 🔭 我正在进行的项目：
-  - [酷安 Lite](https://github.com/Tangent-90/Coolapk-UWP)，咕
+  - [酷安 Lite](https://github.com/Coolapk-UWP/Coolapk-Lite)，咕
   - [APK Installer](https://github.com/Paving-Base/APK-Installer)，咕咕
-  - [Mica For UWP](https://github.com/wherewhere/Mica-For-UWP)，咕咕咕
+  - [Text Reader](https://github.com/wherewhere/Text-Reader)，咕咕咕
 
-- 📫 如何找到我: 
+- 📫 如何找到我：
   - [Outlook邮箱](mailto:qq2518766683@outlook.com)
   - [Coolapk: @wherewhere](https://www.coolapk.com/536381)
   - [Bilibili: @where-where](https://space.bilibili.com/266112738/)
