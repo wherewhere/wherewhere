@@ -12,7 +12,7 @@
   - [Twitter: @wherewhere7](https://twitter.com/wherewhere7)
   - [Telegram: @wherewhere](https://t.me/wherewhere)
   
-- ⚡ 我是 XGS 成员，还是 PRcT 成员，至少现在是，我曾经是 Cake Mania 成员，不过由于服主不想开服，名存实亡了一年就无了，我曾经还是 uDays 成员，不过现在 uDays 没了。
+- ⚡ 我是 XGS 成员，欢迎来 XGS 服游玩，我们叫做香鸽子服，香喷喷的鸽子哦，快来加入我们吧！
 
 - 🎮 欢迎来 Minecraft 找我，我的 Xbox ID 是 wherewhere7，一起来实现共产吧！
 
