@@ -1,9 +1,9 @@
 ### 大家好 👋
 
 - 🔭 我正在进行的项目：
-  - [酷安 Lite](https://github.com/Coolapk-UWP/Coolapk-Lite)，咕
-  - [APK Installer](https://github.com/Paving-Base/APK-Installer)，咕咕
-  - [Text Reader](https://github.com/wherewhere/Text-Reader)，咕咕咕
+  - [APK Installer](https://github.com/Paving-Base/APK-Installer)，咕
+  - [Coolapk Lite](https://github.com/Coolapk-UWP/Coolapk-Lite)，咕咕
+  - [Sharp ADB](https://github.com/yungd1plomat/AdvancedSharpAdbClient)，咕咕咕
 
 - 📫 如何找到我：
   - [Outlook邮箱](mailto:qq2518766683@outlook.com)
