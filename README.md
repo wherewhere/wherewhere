@@ -3,12 +3,12 @@
 - 🔭 我正在进行的项目：
   - [APK Installer](https://github.com/Paving-Base/APK-Installer)，咕
   - [Coolapk Lite](https://github.com/Coolapk-UWP/Coolapk-Lite)，咕咕
-  - [Sharp ADB](https://github.com/yungd1plomat/AdvancedSharpAdbClient)，咕咕咕
+  - [Sharp ADB](https://github.com/SharpAdb/AdvancedSharpAdbClient)，咕咕咕
 
 - 📫 如何找到我：
   - [Outlook邮箱](mailto:qq2518766683@outlook.com)
   - [Coolapk: @wherewhere](https://www.coolapk.com/536381)
-  - [Bilibili: @where-where](https://space.bilibili.com/266112738/)
+  - [哔哩哔哩: @where-where](https://space.bilibili.com/266112738/)
   - [Twitter: @wherewhere7](https://twitter.com/wherewhere7)
   - [Telegram: @wherewhere](https://t.me/wherewhere)
   
