@@ -8,7 +8,7 @@
 - 📫 如何找到我：
   - [Outlook邮箱](mailto:wherewhere7@outlook.com)
   - [Coolapk: @wherewhere](https://www.coolapk.com/536381)
-  - [哔哩哔哩: @where-where](https://space.bilibili.com/266112738/)
+  - [哔哩哔哩: @where-where](https://space.bilibili.com/266112738)
   - [Twitter: @wherewhere7](https://twitter.com/wherewhere7)
   - [Telegram: @wherewhere](https://t.me/wherewhere)
   
@@ -16,9 +16,27 @@
 
 - 🎮 欢迎来 Minecraft 找我，我的 Xbox ID 是 wherewhere7，一起来实现共产吧！
 
-- [![wherewhere's GitHub stats](https://github-readme-stats.vercel.app/api?username=wherewhere&theme=nord&show_icons=true&count_private=true&locale=cn)](https://github.com/wherewhere)
+- <a href="https://github.com/wherewhere">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&theme=nord&show_icons=true&count_private=true&locale=cn">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
+    <img alt="wherewhere's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=wherewhere&theme=nord&show_icons=true&count_private=true&locale=cn">
+  </picture>
+</a>
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn)](https://github.com/wherewhere)
+- <a href="https://github.com/wherewhere">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
+    <img alt="wherewhere's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn">
+  </picture>
+</a>
 
 <!--
 **wherewhere/wherewhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
