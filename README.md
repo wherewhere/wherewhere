@@ -16,29 +16,23 @@
 
 - 🎮 欢迎来 Minecraft 找我，我的 Xbox ID 是 wherewhere7，一起来实现共产吧！
 
-- 
-  <a href="https://github.com/wherewhere">
-    <picture>
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&theme=nord&show_icons=true&count_private=true&locale=cn">
-      <img alt="wherewhere's GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
-    </picture>
-  </a>
+- <picture>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&theme=nord&show_icons=true&count_private=true&locale=cn">
+    <img alt="wherewhere's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
+  </picture>
 
-- 
-  <a href="https://github.com/wherewhere">
-    <picture>
-      <source media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn">
-      <img alt="wherewhere's GitHub stats"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
-    </picture>
-  </a>
+- <picture>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn">
+    <img alt="wherewhere's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
+  </picture>
 
 <!--
 **wherewhere/wherewhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
