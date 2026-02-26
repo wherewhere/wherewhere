@@ -18,20 +18,20 @@
 
 - <picture>
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
+      srcset="https://wherewhere.github.io/github-readme-stats/stats.svg">
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=wherewhere&theme=nord&show_icons=true&count_private=true&locale=cn">
-    <img alt="wherewhere's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=wherewhere&show_icons=true&count_private=true&locale=cn">
+      srcset="https://wherewhere.github.io/github-readme-stats/stats.nord.svg">
+    <img alt="wherewhere's GitHub Stats"
+      src="https://wherewhere.github.io/github-readme-stats/stats.svg">
   </picture>
 
 - <picture>
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
+      srcset="https://wherewhere.github.io/github-readme-stats/top-langs.svg">
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&theme=nord&show_icons=true&count_private=true&locale=cn">
-    <img alt="wherewhere's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhere&layout=compact&show_icons=true&count_private=true&locale=cn">
+      srcset="https://wherewhere.github.io/github-readme-stats/top-langs.nord.svg">
+    <img alt="wherewhere's Top Languages"
+      src="https://wherewhere.github.io/github-readme-stats/top-langs.svg">
   </picture>
 
 <!--
